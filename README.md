@@ -29,7 +29,7 @@ I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   
 - :computer: Exploring Automation on JAVA.
 
-- :watch: In my free time, I read tech articles in the Habr and group in telegram.
+- :watch: In my free time, I read tech articles in the Habr and groups Telegram.
 
 - :iphone: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlekseyKhot)
 
