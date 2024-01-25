@@ -87,10 +87,12 @@ https://docs.google.com/spreadsheets/d/1Ek_CuNGHJ70uDI_edm9Ug-79CpPt_AewDU2Sz3DF
 
 ---
 
-### Bye :hand: 
+<h1 align="center">
+  
+<img src="https://media.giphy.com/media/YOcTikSFwS3Go/giphy.gif" width="500" height="200"/>
 
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fWYFJ7b8PR44vRRLRG/giphy.gif" width="113"/>
-  </div>
+  Bye :hand:
+  
+</h1>
   
 ---
