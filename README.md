@@ -29,7 +29,7 @@ I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ---
 
-- :hammer:  I’m working as a QA and contributing to testing web applications.
+- :hammer_and_wrench:  I’m working as a QA and contributing to testing web applications.
   
 - :computer: Exploring Automation on JAVA.
 
@@ -39,8 +39,7 @@ I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://"https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lesha55-90&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
