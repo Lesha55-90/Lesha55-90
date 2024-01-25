@@ -23,11 +23,7 @@
 
 ### :man_technologist: About Me :
 
----
-
 I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Omsk.
-
----
 
 - :hammer_and_wrench:  I’m working as a QA and contributing to testing web applications.
   
@@ -37,6 +33,15 @@ I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :iphone: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlekseyKhot)
 
+---
+
+### :man_technologist: Examples of my artifacts :
+ </details>
+<details><summary>:spider: Bug reports</summary> 
+  ![Jira - invalid all](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/d890dd08-4999-4a1c-9990-684cf53d8fbe)
+  ![Jira поисковое значение](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/7e82716e-db9c-4e40-b372-2fa295e53589)
+  ![Jira регистрац опция](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/5a9438e4-a8b9-4441-b4f1-cc0aa3946c7a)
+</details>
 ---
 
 ### :fire: My Stats :
