@@ -87,12 +87,4 @@ https://docs.google.com/spreadsheets/d/1Ek_CuNGHJ70uDI_edm9Ug-79CpPt_AewDU2Sz3DF
 
 ---
 
-<h1 align="center">
-  
-<img src="https://media.giphy.com/media/YOcTikSFwS3Go/giphy.gif" width="500" height="200"/>
 
-  Bye :hand:
-  
-</h1>
-  
----
