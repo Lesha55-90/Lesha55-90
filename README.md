@@ -9,7 +9,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Omsk.
+I am a Junior QA from Omsk <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :hammer_and_wrench:  I’m working as a QA and contributing to testing web applications.
   
