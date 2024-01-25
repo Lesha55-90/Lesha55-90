@@ -35,11 +35,35 @@ I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ---
 
-### :briefcase: Examples of my artifacts :
+### :briefcase: My Certificates :
  </details>
-<details><summary>:spider: Automated Testing</summary> 
+<details><summary>:closed_book: Automated Testing</summary> 
+
+![Серт4](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/08713c19-67bc-4636-8b50-01459a686449)
 
 
+</details>
+
+ </details>
+<details><summary>:blue_book: JAVA for Testers</summary> 
+
+![Серт3](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/3e3262f3-e616-44b0-9417-8a4e2835d6f5)
+
+
+</details>
+
+ </details>
+<details><summary>:green_book: GIT</summary> 
+
+![Серт2](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/8deb2791-248e-42eb-9e44-8851612c5f12)
+
+
+</details>
+
+ </details>
+<details><summary>:notebook_with_decorative_cover: Manual Testing Web</summary> 
+
+![Серт](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/2bd09f6c-95f0-4fe7-b86d-d0c1ca1fe65e)
 
 
 </details>
