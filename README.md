@@ -13,7 +13,7 @@
 </div>
 
 <h1 align="center">
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -37,7 +37,7 @@ I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :man_technologist: Examples of my artifacts :
  </details>
-<details><summary>:spider: Bug reports</summary> 
+<details><summary>:spider: Bug reports in Jira</summary> 
 
 ![Jira - invalid all](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/1b6f98f1-f0f7-4a30-8137-6a3e2ea5803a)
 
@@ -50,15 +50,33 @@ https://docs.google.com/spreadsheets/d/1Ek_CuNGHJ70uDI_edm9Ug-79CpPt_AewDU2Sz3DF
 
 </details>
 
- </details>
+
+</details>
+<details><summary>:triangular_flag_on_post: Work in Postman</summary>   
+
+![П1](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/9b1576ad-32fc-46d1-8d50-bfa63c18776e)
+
+![П2](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/14b1751a-e13e-4ebb-b976-7b7d93f0ea27)
+
+![П3](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/6d695ccb-5652-449c-b312-f2ddf7409a78)
+
+
+</details>
+
+</details>
+<details><summary>:basecamp: Allure</summary>
+
+![Allure](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/b8d03256-1313-4758-b292-ef91686a2f84)
+
+</details>
+
+</details>
 <details><summary>:bookmark_tabs: Test Case</summary>
   <div id="badges">
     <a href="https://docs.google.com/spreadsheets/d/1Ek_CuNGHJ70uDI_edm9Ug-79CpPt_AewDU2Sz3DF_vg/edit#gid=0">
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="70"/>
        </a>
   </div>
-  
-
 
 </details>
 
@@ -67,4 +85,12 @@ https://docs.google.com/spreadsheets/d/1Ek_CuNGHJ70uDI_edm9Ug-79CpPt_AewDU2Sz3DF
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lesha55-90&theme=dark&background=000000)](https://git.io/streak-stats)
 
+---
+
+### Bye :hand: 
+
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/fWYFJ7b8PR44vRRLRG/giphy.gif" width="113"/>
+  </div>
+  
 ---
