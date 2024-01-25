@@ -35,7 +35,18 @@ I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ---
 
-### :man_technologist: Examples of my artifacts :
+### :briefcase: Examples of my artifacts :
+ </details>
+<details><summary>:spider: Automated Testing</summary> 
+
+
+
+
+</details>
+
+---
+
+### :memo: Examples of my artifacts :
  </details>
 <details><summary>:spider: Bug reports in Jira</summary> 
 
@@ -46,7 +57,7 @@ I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ![Jira регистрац опция](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/ffd8581b-eae5-4194-9e2b-2d05d142ad63)
 
 
-https://docs.google.com/spreadsheets/d/1Ek_CuNGHJ70uDI_edm9Ug-79CpPt_AewDU2Sz3DF_vg/edit#gid=0
+
 
 </details>
 
@@ -87,7 +98,5 @@ https://docs.google.com/spreadsheets/d/1Ek_CuNGHJ70uDI_edm9Ug-79CpPt_AewDU2Sz3DF
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lesha55-90&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
----
 
 
