@@ -93,12 +93,9 @@ I am a Junior QA from Omsk <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 </details>
 <details><summary>:bookmark_tabs: Test Case</summary>
-  <div id="badges">
-    <a href="https://docs.google.com/spreadsheets/d/1Ek_CuNGHJ70uDI_edm9Ug-79CpPt_AewDU2Sz3DF_vg/edit#gid=0">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="70"/>
-       </a>
-  </div>
-
+  
+  [по ссылке](https://docs.google.com/spreadsheets/d/1Ek_CuNGHJ70uDI_edm9Ug-79CpPt_AewDU2Sz3DF_vg/edit#gid=0)
+  
 </details>
 
 ---
