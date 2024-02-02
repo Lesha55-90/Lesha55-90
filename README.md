@@ -85,9 +85,9 @@ I am a Junior QA from Omsk <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </details>
 
 </details>
-<details><summary>:basecamp: Allure</summary>
+<details><summary>:basecamp: Allure_Report</summary>
 
-![Allure](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/b8d03256-1313-4758-b292-ef91686a2f84)
+![Allure_Report](https://github.com/Lesha55-90/Lesha55-90/assets/141206848/d54ab058-4128-4e91-8d21-4346faa72a7d)
 
 </details>
 
